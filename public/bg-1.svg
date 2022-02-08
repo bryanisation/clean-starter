@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 1366 768">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g fill="#ff80e5">
+  <rect transform="matrix(-.72726 -.68636 .73814 -.67465 0 0)" height="995.69" width="196.09" y="-997.58" x="-713.09" stroke-width="2.2093"/>
+  <rect transform="matrix(-.78559 -.61875 .75237 -.65874 0 0)" height="1207.3" width="129.34" y="-551.35" x="-494.08" stroke-width="1.9758"/>
+  <rect transform="matrix(-.72726 -.68636 .73814 -.67465 0 0)" height="995.69" width="196.09" y="331.33" x="-732.57" stroke-width="2.2093"/>
+  <rect transform="matrix(-.72978 -.68368 .74061 -.67193 0 0)" height="798.51" width="157.24" y="-259.81" x="-904.76" stroke-width="1.7717"/>
+  <ellipse rx="108.57" ry="102.86" cy="316.57" cx="577.14"/>
+ </g>
+</svg>
